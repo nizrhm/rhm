@@ -94,7 +94,7 @@ Existing models face a trade-off:
 
 ## 🧑‍💻 Author
 
-Built by *[Your Name]* — exploring efficient reasoning systems and next-gen model architectures.
+Built by *Nizaul Rahman* — exploring efficient reasoning systems and next-gen model architectures.
 
 ---
 
